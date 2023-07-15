@@ -1,5 +1,5 @@
 import axios from 'axios';
-const url = 'https://code-editor-api-z2u1.onrender.com/';
+const url = 'https://code-editor-api-z2u1.onrender.com';
 
 export const sendCode = async(codeWritten) =>{
     try {
